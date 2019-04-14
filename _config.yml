@@ -1,0 +1,59 @@
+# Site
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Khanifun Nizar
+title: Software Engineer
+email: voennizar@gmail.com
+# website: www.github.com/sproogen/resume-theme
+
+# Social links
+# twitter_username: facespics
+github_username:  vnizar
+# dribbble_username: jekyll
+facebook_username: kan.ifun
+# flickr_username: jekyll
+instagram_username: kanupin
+linkedin_username: khanifun-nizar
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Software engineer with experience in game, web and mobile app development, highly familiar with engineering, networking, troubleshooting, problem solving, and love to learn new things.
+
+  I am most skilled in: <mark>Java</mark>, <mark>Kotlin</mark>, <mark>Android</mark>, <mark>Postgresql</mark>, <mark>NodeJS</mark>, <mark>Ruby on Rails</mark> and some other frameworks.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Travelling
+   - Gaming
+   - Photography
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

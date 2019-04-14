@@ -1,0 +1,19 @@
+- company: Binar Academy
+  link: https://binar.co.id
+  job_title: Lead Research And Technology
+  dates: March 2017 - Present
+  description: | # this will include new lines to allow paragraphs
+    Lead a team for research on materials and curriculum based on industry requirements, trends, and learning curve to make it possible for everyone to understand the technology they want to learn.
+    Develop platform and services for internal use to improve the effectiveness of tasks. Provide gathered data for business decision and tech improvements.
+- company: Go-Jek
+  link: https://www.go-jek.com/
+  job_title: Senior Android Engineer
+  dates: May 2016 - January 2017
+  description: | # this will include new lines to allow paragraphs
+    Develop existing mobile app to improve the architecture and maintainability. Implement required tools and features, suggest options for tools and features for better user experience. Collaborate with other team members to plan, design, and develop app.
+- company: Gameloft Indonesia
+  link: http://www.gameloft-sea.com/
+  job_title: Supervisor Programmer
+  dates: June 2012 - May 2016
+  description: | # this will include new lines to allow paragraphs
+    Mass port, optimize, and develop games from high-end devices to low-end devices. Proactively solve problems like game mechanism and bugs. Work effectively with design and artist team to ensure on time product delivery.
