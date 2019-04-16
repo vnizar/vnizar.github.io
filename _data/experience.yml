@@ -1,10 +1,16 @@
 - company: Binar Academy
   link: https://binar.co.id
   job_title: Lead Research And Technology
-  dates: March 2017 - Present
+  dates: September 2018 - Present
   description: | # this will include new lines to allow paragraphs
     Lead a team for research on materials and curriculum based on industry requirements, trends, and learning curve to make it possible for everyone to understand the technology they want to learn.
     Develop platform and services for internal use to improve the effectiveness of tasks. Provide gathered data for business decision and tech improvements.
+- company: Binar Academy
+  link: https://binar.co.id
+  job_title: Master Android
+  dates: March 2017 - September 2018
+  description: | # this will include new lines to allow paragraphs
+    Develop platform for academy activities to be used by users and students. Research and build updated curriculum with latest technology. Review and develop talents and students to meet the global standard of technology.
 - company: Go-Jek
   link: https://www.go-jek.com/
   job_title: Senior Android Engineer
